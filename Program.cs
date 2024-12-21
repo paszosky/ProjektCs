@@ -11,7 +11,8 @@ namespace ProjectCs
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.ReadLine();
+            Console.WriteLine("Test dla githuba");
+            //Console.ReadLine();
         }
     }
 }
