@@ -1,0 +1,7 @@
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\bin\Debug\ProjectCs.exe.config
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\bin\Debug\ProjectCs.exe
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\bin\Debug\ProjectCs.pdb
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\obj\Debug\ProjectCs.csproj.AssemblyReference.cache
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\obj\Debug\ProjectCs.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\obj\Debug\ProjectCs.exe
+C:\Users\pavel\source\repos\ProjectCs\ProjectCs\obj\Debug\ProjectCs.pdb
